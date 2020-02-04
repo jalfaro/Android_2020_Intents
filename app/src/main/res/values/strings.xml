@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IntentEjemplo</string>
+    <string name="opcion1">Abrir Formulario</string>
+    <string name="opcion2">Abrir Pantalla de Llamado</string>
+    <string name="txt_nombre">Nombre :</string>
+    <string name="tst_hint_nombre">Ingrese su nombre</string>
+    <string name="opcion3">Pasar Parametros</string>
+</resources>
